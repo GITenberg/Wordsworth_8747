@@ -1,0 +1,25 @@
+_repo: Wordsworth_8747
+creator:
+  author:
+    agent_name: Myers, F. W. H. (Frederic William Henry)
+    alias: Myers, Frederic William Henry
+    birthdate: 1843
+    deathdate: 1901
+    gutenberg_agent_id: '2874'
+    url: http://www.gutenberg.org/2009/agents/2874
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_William_Henry_Myers
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Wordsworth, William, 1770-1850'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+title: Wordsworth
+url: http://www.gutenberg.org/ebooks/8747
