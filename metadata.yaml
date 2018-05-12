@@ -1,4 +1,8 @@
 _repo: Wordsworth_8747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Myers, F. W. H. (Frederic William Henry)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2874
     wikipedia: http://en.wikipedia.org/wiki/Frederic_William_Henry_Myers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8747#Wordsworth
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
